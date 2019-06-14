@@ -1,0 +1,37 @@
+body {
+    background: linear-gradient(white, rgb(87, 170, 218));
+}
+
+.jumbotron {
+    background-color: whitegray;
+    background-image: url(../imgs/cardinal.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 450px;
+
+}
+
+.jumbotron3 {
+    background-color: whitegray;
+    background-image: url(../imgs/ara.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 450px;
+
+}
+
+
+H1 {
+    color: white;
+    size: 150px;
+    padding-top: 350px;
+
+}
+
+
+.container {
+    margin-top: 100px;
+    margin-left: 160px;
+}

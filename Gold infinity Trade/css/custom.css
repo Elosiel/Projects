@@ -1,0 +1,27 @@
+h1 {
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+
+}
+
+html {
+    background-image: linear-gradient(white, rgb(60, 132, 180));
+    heigth: 100%;
+}
+
+.jumbotron {
+    background-image: url('../imgs/trade.jpeg');
+    height: 100px;
+    margin-bottom: 0;
+
+}
+
+body {
+    background-color: black;
+}
+
+#footertext {
+    font-size: 20px;
+    text-align: center;
+}
